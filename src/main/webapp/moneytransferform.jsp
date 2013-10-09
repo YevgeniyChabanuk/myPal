@@ -20,18 +20,18 @@
     <div  class="col-md-4 col-md-offset-4 input-group">
         <h3>Sender</h3>
         <select name="sender" class="col-md-4  form-control">
-            <option value="1">John Smith</option>
-            <option value="2">Bob Braun</option>
-            <option value="3">System</option>
+            <option value="John Smith">John Smith</option>
+            <option value="Bob Braun">Bob Braun</option>
+            <option value="System">System</option>
         </select>
     </div>
 
     <div class="col-md-4 col-md-offset-4 input-group">
         <h3>Receiver</h3>
         <select name="receiver" class="col-md-4  form-control">
-            <option value="1">John Smith</option>
-            <option value="2">Bob Braun</option>
-            <option value="3">System</option>
+            <option value="John Smith">John Smith</option>
+            <option value="Bob Braun">Bob Braun</option>
+            <option value="System">System</option>
         </select>
     </div>
 
